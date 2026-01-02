@@ -50,6 +50,11 @@ Imported datasets of about **17** columns and **200000** Rows from Excel as a CS
 
   - **PM:** Impressions 1007.6M, Clicks 100.66M, Conversion Rate 8.0%, ROI $915.6K, Acquisition Cost $12.50K
 
+D# ashboard Wireframe
+The dashboard wireframe was first sketched in PowerPoint to organize the flow of insights before building in Excel.
+
+![My Image Description](https://github.com/R887645/2021-Marketing-Performance-Dashboard-Report/blob/main/End%20to%20end%20Marketing%20wireframe.png?raw=true)
+
 ![My Image Description](https://github.com/R887645/2021-Marketing-Performance-Dashboard-Report/blob/main/All%20DAX%20measures%20.png?raw=true)
 
 # KPI Results and Trends
