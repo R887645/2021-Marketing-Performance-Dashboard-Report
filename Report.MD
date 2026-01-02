@@ -1,10 +1,11 @@
 # Introduction
 The 2021 Marketing Performance Dashboard project was developed to provide a complete end-to-end analysis of digital marketing campaigns.
-Using Excel’s Power Query, Power Pivot, and Pivot Tables, the dashboard transformed raw data into actionable insights. The focus was on five core KPIs—Total Impressions, Total Clicks, Average Acquisition Cost, 
+Using Excel’s Power Query, Power Pivot, and Pivot Tables, the dashboard transformed raw data into actionable insights. The focus was on five core KPIs; Total Impressions, Total Clicks, Average Acquisition Cost, 
 Average Conversion Rate, and Total ROI, while also tracking trends, weekly breakdowns, channel and campaign performance, ROI by location, and audience targeting.
 
 # Data Preparation
-Imported datasets of about **17** columns and **200000** Rows from Excel.
+Imported datasets of about **17** columns and **200000** Rows from Excel as a CSV File.
+![My Image Description](https://github.com/R887645/2021-Marketing-Performance-Dashboard-Report/blob/main/Data%20Preparation.png?raw=true)
 
 # Data Cleaning in Power Query
 
@@ -28,6 +29,8 @@ Imported datasets of about **17** columns and **200000** Rows from Excel.
 
 - Allowed flexible analysis across KPIs, weekly trends, and segmented breakdowns.
 
+![My Image Description](https://github.com/R887645/2021-Marketing-Performance-Dashboard-Report/blob/main/Power%20Pivot(Data%20Modelling).png?raw=true)
+
 # DAX Measures in Power Pivot & Pivot Tables
 - Defined measures for:
 
@@ -43,9 +46,11 @@ Imported datasets of about **17** columns and **200000** Rows from Excel.
 
 - Created comparative measures:
 
-  - **PM Change:** Impressions +9.29%, Clicks +9.32%, ROI +109.27%
+  - **MOM% Change:** Impressions +9.29%, Clicks +9.32%, ROI +109.27%
 
-  - **MoM% Change:** Impressions +3.82%, Clicks +3.32%, Conversion Rate +10.27%, ROI +4.39%
+  - **PM:** Impressions 1007.6M, Clicks 100.66M, Conversion Rate 8.0%, ROI $915.6K, Acquisition Cost $12.50K
+
+![My Image Description](https://github.com/R887645/2021-Marketing-Performance-Dashboard-Report/blob/main/All%20DAX%20measures%20.png?raw=true)
 
 # KPI Results and Trends
 
@@ -56,6 +61,8 @@ Imported datasets of about **17** columns and **200000** Rows from Excel.
 - Acquisition cost remained stable across weeks.
 
 - Conversion rate held steady at 8.0%, with a slight uptick in Week 6.
+
+![My Image Description](https://github.com/R887645/2021-Marketing-Performance-Dashboard-Report/blob/main/Real%20End%20to%20End%20Marketing%20Performance%20Dashboard.png?raw=true)
 
 # Weekly Trends
 - Impressions peaked in Weeks 2–4 (~253M each).
