@@ -67,7 +67,7 @@ The dashboard wireframe was first sketched in PowerPoint to organize the flow of
 
 - Conversion rate held steady at 8.0%, with a slight uptick in Week 6.
 
-![My Image Description](https://github.com/R887645/2021-Marketing-Performance-Dashboard-Report/blob/main/Real%20End%20to%20End%20Marketing%20Performance%20Dashboard.png?raw=true)
+![My Image Description](https://github.com/R887645/2021-Marketing-Performance-Dashboard-Report/blob/main/Real%20Real%20Marketing%20Performance%20Dashboard.png?raw=true)
 
 # Weekly Trends
 - Impressions peaked in Weeks 2–4 (~253M each).
