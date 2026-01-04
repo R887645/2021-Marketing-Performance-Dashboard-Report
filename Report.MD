@@ -123,17 +123,17 @@ The dashboard wireframe was first sketched in PowerPoint to organize the flow of
 - Young male audiences **(18–24)** were the most targeted, aligning with campaign goals.
 
 # Recommendations
-- **Geographic Focus:** Allocate more budget to Miami; optimize campaigns in New York and Houston.
+- **Geographic Focus:** Consider increasing budget allocation to Miami while optimizing campaigns in New York and Houston to maximize ROI.
 
-- **Campaign Strategy:** Expand influencer marketing; maintain strong investment in search.
+- **Campaign Strategy:** Explore further investment in influencer marketing and maintain strong allocation in search campaigns based on observed performance.
 
-- **Channel Optimization:** Refine email strategy to leverage its ROI advantage.
+- **Channel Optimization:** Refine email campaigns to leverage their ROI advantage and identify opportunities for higher engagement.
 
-- **Audience Targeting:** Continue focus on Men 18–24; diversify messaging for Women 25–34.
+- **Audience Targeting:** Continue prioritizing Men 18–24 while experimenting with messaging for Women 25–34 to broaden reach and engagement.
 
-- **Trend Monitoring:** Investigate Week 6 drop in impressions and clicks to avoid campaign fatigue.
+- **Trend Monitoring:** Investigate the Week 6 drop in impressions and clicks to understand potential causes and mitigate campaign fatigue.
 
-- **Conversion Improvement:** Optimize creatives and landing pages to push conversion rate above 8.0%.
+- **Conversion Improvement:** Optimize creatives and landing pages to increase the conversion rate above 8%.
 
 # Conclusion
 The 2021 Marketing Performance Dashboard demonstrates how clean data, structured modeling, and DAX-driven measures can transform raw campaign information into actionable insights. The analysis highlights strong growth in impressions and clicks, stable acquisition costs, and a significant ROI increase.
