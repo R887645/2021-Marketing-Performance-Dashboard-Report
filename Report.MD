@@ -22,6 +22,8 @@ Imported datasets of about **17** columns and **200000** Rows from Excel as a CS
 
 - Enabled time intelligence functions for weekly and monthly trend analysis.
 
+![My Image Description](https://github.com/R887645/2021-Marketing-Performance-Dashboard-Report/blob/main/power%20Query_marketing.png?raw=true)
+
 # Data Modeling in Power Pivot
 - Designed a one-to-many relationship linking the marketing table to the Date table only.
 
